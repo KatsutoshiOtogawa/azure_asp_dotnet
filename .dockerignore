@@ -1,0 +1,14 @@
+.github
+.editorconfig
+.gitattributes
+.gitignore
+.devcontainer
+debug/
+Debug/
+release/
+Release/
+bin/
+Bin/
+obj/
+Obj/
+README.md
